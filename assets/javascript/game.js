@@ -6,7 +6,7 @@ var score;
 var target;
 
 function randomNumber() {
-  return Math.floor(Math.random() * 120 + 1);
+  return Math.floor(Math.random() * 120 + 19);
 }
 
 
